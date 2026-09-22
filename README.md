@@ -2,7 +2,7 @@
 Descritivo do que a aplicação precisa fazer
 Responsáveis: Nome 1; Nome 2
 
-##Front
+## Front
 - Lista das ações necessárias no front ( telas, e comportamento)
 
 ## Backend e Banco
